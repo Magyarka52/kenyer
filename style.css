@@ -26,7 +26,11 @@ ul {
 li {
   cursor: url('kepek/felefeketecursor.png'), auto;
 }
-   
+
+a {
+  cursor: url('kepek/felemutatocursor.png'), auto;
+}
+
 p {
   font-family: verdana;
   color: white;
