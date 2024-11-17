@@ -27,11 +27,7 @@ li {
   cursor: url('kepek/felefeketecursor.png'), auto;
 }
 
-a {
-  cursor: url('kepek/felemutatocursor.png'), auto;
-}
-
-img {
+.link {
   cursor: url('kepek/felemutatocursor.png'), auto;
 }
 
