@@ -29,6 +29,8 @@ li {
 
 #link {
   cursor: url('kepek/felemutatocursor.png'), auto;
+  color: grey;
+  font-size: 30px;
 }
 
 p {
