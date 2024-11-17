@@ -1,0 +1,49 @@
+   
+html {
+ cursor: url('kepek/felecursor2.png'), auto;
+}
+   
+body {
+  background-color: rgb(153, 51, 0);
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: grey;
+}
+
+ol {
+  cursor: url('kepek/felefeketecursor.png'), auto;
+}
+  
+ul {
+  cursor: url('kepek/felefeketecursor.png'), auto;
+}
+
+li {
+  cursor: url('kepek/felefeketecursor.png'), auto;
+}
+   
+p {
+  font-family: verdana;
+  color: white;
+  font-size: 20px;
+  cursor: url('kepek/felefeketecursor.png'), auto;
+}
+
+#oldalvege {
+  font-family: verdana;
+  color: white;
+  font-size: 11px;
+  text-align: center;
+  background-color: rgb(51, 17, 0);
+  cursor: url('kepek/questionfelecursor.png'), auto;
+}
+
+::selection {
+    background-color: rgb(0, 51, 102);
+    color: rgb(255, 255, 204);
+}
